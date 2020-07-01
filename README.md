@@ -1,2 +1,2 @@
 # az400TrainingDemo
-Repository used for handling the files of AZ400 testing
+This is the readme file for the testing of the files
